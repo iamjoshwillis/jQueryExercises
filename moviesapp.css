@@ -1,0 +1,11 @@
+#add-movie {
+    padding: 25px;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+ul {
+    margin: auto;
+    justify-content: center;
+}
